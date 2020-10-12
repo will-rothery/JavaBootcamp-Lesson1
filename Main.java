@@ -8,7 +8,7 @@ public class Main {
         System.out.println(Harvey);
         
         Person Will = new Person();
-        Will.name = "Will";
+        Will.name = "Will1";
         Will.age = 27;
         System.out.println(Will.name);
         System.out.println(Will.age);
